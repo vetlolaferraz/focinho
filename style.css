@@ -11,3 +11,6 @@ body{
     color: brown;
     font-size: 20px;
 }
+.lista-item{
+    text-align: center;
+}
